@@ -1,0 +1,163 @@
+{
+  "build": "h232270b_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "c-ares >=1.18.1,<2.0a0",
+    "libcxx >=13.0.1",
+    "libev >=4.33,<4.34.0a0",
+    "libzlib >=1.2.12,<1.3.0a0",
+    "openssl >=1.1.1q,<1.1.2a"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libnghttp2-1.47.0-h232270b_1",
+  "features": "",
+  "files": [
+    "bin/h2load",
+    "bin/nghttp",
+    "bin/nghttpd",
+    "bin/nghttpx",
+    "include/nghttp2/nghttp2.h",
+    "include/nghttp2/nghttp2ver.h",
+    "lib/libnghttp2.14.dylib",
+    "lib/libnghttp2.dylib",
+    "lib/pkgconfig/libnghttp2.pc",
+    "share/doc/nghttp2/README.rst",
+    "share/man/man1/h2load.1",
+    "share/man/man1/nghttp.1",
+    "share/man/man1/nghttpd.1",
+    "share/man/man1/nghttpx.1",
+    "share/nghttp2/fetch-ocsp-response"
+  ],
+  "fn": "libnghttp2-1.47.0-h232270b_1.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libnghttp2-1.47.0-h232270b_1",
+    "type": 1
+  },
+  "md5": "9d9fea2828fca831e59b049b7296b805",
+  "name": "libnghttp2",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libnghttp2-1.47.0-h232270b_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/h2load",
+        "path_type": "hardlink",
+        "sha256": "14a60fc165ef9f8a8d540c828eeb187e413bc77d7e177d149d86f9a056178234",
+        "sha256_in_prefix": "14a60fc165ef9f8a8d540c828eeb187e413bc77d7e177d149d86f9a056178234",
+        "size_in_bytes": 363408
+      },
+      {
+        "_path": "bin/nghttp",
+        "path_type": "hardlink",
+        "sha256": "1b31f8f25ba0158dfe9d69dc1a5a093a0daa6ed58dc17148325f9609865e0816",
+        "sha256_in_prefix": "1b31f8f25ba0158dfe9d69dc1a5a093a0daa6ed58dc17148325f9609865e0816",
+        "size_in_bytes": 342016
+      },
+      {
+        "_path": "bin/nghttpd",
+        "path_type": "hardlink",
+        "sha256": "93d107b8fc2adba00cc1a71297eb7d8aa0951f02f4c56a15d01b19b9c7bcf641",
+        "sha256_in_prefix": "93d107b8fc2adba00cc1a71297eb7d8aa0951f02f4c56a15d01b19b9c7bcf641",
+        "size_in_bytes": 317792
+      },
+      {
+        "_path": "bin/nghttpx",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/nghttp2_1660490067772/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "1e764ea6e6c0cfa4e25833ba7416b1c9d53e134651792e6587d90359a590cfe0",
+        "sha256_in_prefix": "4fb6d9895fccb854f0f6ba2c5694d9ce786abc0f9d3ec29e87e6faf06f87e5b8",
+        "size_in_bytes": 1149840
+      },
+      {
+        "_path": "include/nghttp2/nghttp2.h",
+        "path_type": "hardlink",
+        "sha256": "584254451b3e4d7797be44838464ae16ef18ce124ca521d71a8eaddbcb07b73d",
+        "sha256_in_prefix": "584254451b3e4d7797be44838464ae16ef18ce124ca521d71a8eaddbcb07b73d",
+        "size_in_bytes": 196567
+      },
+      {
+        "_path": "include/nghttp2/nghttp2ver.h",
+        "path_type": "hardlink",
+        "sha256": "c9e43687eb279b8f4e37a25ee42e447ae9c3e8110402a5f246d554cdb1eadfef",
+        "sha256_in_prefix": "c9e43687eb279b8f4e37a25ee42e447ae9c3e8110402a5f246d554cdb1eadfef",
+        "size_in_bytes": 1605
+      },
+      {
+        "_path": "lib/libnghttp2.14.dylib",
+        "path_type": "hardlink",
+        "sha256": "3bda5d581cbeb4dbffa8a1dff7699a348b396ede685cb53dc53ac084715bdede",
+        "sha256_in_prefix": "3bda5d581cbeb4dbffa8a1dff7699a348b396ede685cb53dc53ac084715bdede",
+        "size_in_bytes": 192704
+      },
+      {
+        "_path": "lib/libnghttp2.dylib",
+        "path_type": "softlink",
+        "sha256": "3bda5d581cbeb4dbffa8a1dff7699a348b396ede685cb53dc53ac084715bdede",
+        "size_in_bytes": 192704
+      },
+      {
+        "_path": "lib/pkgconfig/libnghttp2.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/nghttp2_1660490067772/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "ebf17de10c3c8d055e05250fe55468fd9de36aaa96264bf3301018016460b5ea",
+        "sha256_in_prefix": "18ebe994609a6ead591435831d9b41bede258a31bf30067ec5eb14359f468dfd",
+        "size_in_bytes": 1633
+      },
+      {
+        "_path": "share/doc/nghttp2/README.rst",
+        "path_type": "hardlink",
+        "sha256": "46e5cbf4b10d105a683c32848c543c600c57b571813611c37d8a5b855823209f",
+        "sha256_in_prefix": "46e5cbf4b10d105a683c32848c543c600c57b571813611c37d8a5b855823209f",
+        "size_in_bytes": 56704
+      },
+      {
+        "_path": "share/man/man1/h2load.1",
+        "path_type": "hardlink",
+        "sha256": "b3860ae5255bfe3be3350b9ef7c57644bff67046012ac108d2a29796bcc3b9a9",
+        "sha256_in_prefix": "b3860ae5255bfe3be3350b9ef7c57644bff67046012ac108d2a29796bcc3b9a9",
+        "size_in_bytes": 15682
+      },
+      {
+        "_path": "share/man/man1/nghttp.1",
+        "path_type": "hardlink",
+        "sha256": "2e2553ed3ed713c165bc3fc49330942351e915a3a2b71b7fd942aea2373e9321",
+        "sha256_in_prefix": "2e2553ed3ed713c165bc3fc49330942351e915a3a2b71b7fd942aea2373e9321",
+        "size_in_bytes": 8861
+      },
+      {
+        "_path": "share/man/man1/nghttpd.1",
+        "path_type": "hardlink",
+        "sha256": "b7c90db78294fb77f3723ea4d4520db7ecfa018e51d82260b5f74b8df20a3ed9",
+        "sha256_in_prefix": "b7c90db78294fb77f3723ea4d4520db7ecfa018e51d82260b5f74b8df20a3ed9",
+        "size_in_bytes": 5398
+      },
+      {
+        "_path": "share/man/man1/nghttpx.1",
+        "path_type": "hardlink",
+        "sha256": "6667061ab67b471bfde2281b0f409ef6239254c6e25726b2cfe6e2d4281b64e7",
+        "sha256_in_prefix": "6667061ab67b471bfde2281b0f409ef6239254c6e25726b2cfe6e2d4281b64e7",
+        "size_in_bytes": 92242
+      },
+      {
+        "_path": "share/nghttp2/fetch-ocsp-response",
+        "path_type": "hardlink",
+        "sha256": "400863baa375f1b465e0f72bfe6bc18f6ac13cc065fa9fc66254df9e88e7ff5c",
+        "sha256_in_prefix": "400863baa375f1b465e0f72bfe6bc18f6ac13cc065fa9fc66254df9e88e7ff5c",
+        "size_in_bytes": 8987
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6b17b4568830eb5f80da0af2a5decb5127976a207ea5cd1835d2e968f0a1954d",
+  "size": 835144,
+  "subdir": "osx-arm64",
+  "timestamp": 1660490408022,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libnghttp2-1.47.0-h232270b_1.tar.bz2",
+  "version": "1.47.0"
+}

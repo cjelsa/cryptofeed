@@ -1,0 +1,115 @@
+{
+  "build": "he4db4b2_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/dav1d-1.0.0-he4db4b2_1",
+  "features": "",
+  "files": [
+    "bin/dav1d",
+    "include/dav1d/common.h",
+    "include/dav1d/data.h",
+    "include/dav1d/dav1d.h",
+    "include/dav1d/headers.h",
+    "include/dav1d/picture.h",
+    "include/dav1d/version.h",
+    "lib/libdav1d.6.dylib",
+    "lib/libdav1d.dylib",
+    "lib/pkgconfig/dav1d.pc"
+  ],
+  "fn": "dav1d-1.0.0-he4db4b2_1.tar.bz2",
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/dav1d-1.0.0-he4db4b2_1",
+    "type": 1
+  },
+  "md5": "b694e2e945a2cce44a5155d4959ff856",
+  "name": "dav1d",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/dav1d-1.0.0-he4db4b2_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/dav1d",
+        "path_type": "hardlink",
+        "sha256": "8e4d932c17f3e26632121726145fe4d88a832ce72a2504be1334801da3a95e1c",
+        "sha256_in_prefix": "8e4d932c17f3e26632121726145fe4d88a832ce72a2504be1334801da3a95e1c",
+        "size_in_bytes": 72016
+      },
+      {
+        "_path": "include/dav1d/common.h",
+        "path_type": "hardlink",
+        "sha256": "d279fbae684065bbe4e9b15b81ba44a64a3c3282db7dc279be115580df9b2853",
+        "sha256_in_prefix": "d279fbae684065bbe4e9b15b81ba44a64a3c3282db7dc279be115580df9b2853",
+        "size_in_bytes": 3172
+      },
+      {
+        "_path": "include/dav1d/data.h",
+        "path_type": "hardlink",
+        "sha256": "8eb0fd27299100ef64806a7c7877cf2ae2f5104ce48c45c21567f2dc8bb57c96",
+        "sha256_in_prefix": "8eb0fd27299100ef64806a7c7877cf2ae2f5104ce48c45c21567f2dc8bb57c96",
+        "size_in_bytes": 4402
+      },
+      {
+        "_path": "include/dav1d/dav1d.h",
+        "path_type": "hardlink",
+        "sha256": "a54656b529da81de672da33d25428d1fd6ff73b7c09ec9e6abe5a8fd569b3d4f",
+        "sha256_in_prefix": "a54656b529da81de672da33d25428d1fd6ff73b7c09ec9e6abe5a8fd569b3d4f",
+        "size_in_bytes": 11172
+      },
+      {
+        "_path": "include/dav1d/headers.h",
+        "path_type": "hardlink",
+        "sha256": "2d5cc3aeeb698e3ecc45a1e901b7d8263bc9489e5e4d087b762cc928d4f2f458",
+        "sha256_in_prefix": "2d5cc3aeeb698e3ecc45a1e901b7d8263bc9489e5e4d087b762cc928d4f2f458",
+        "size_in_bytes": 13787
+      },
+      {
+        "_path": "include/dav1d/picture.h",
+        "path_type": "hardlink",
+        "sha256": "e7da29ceb330ae533169051e41a18d3b137bc34a87a01bf5f99ad187d88373c9",
+        "sha256_in_prefix": "e7da29ceb330ae533169051e41a18d3b137bc34a87a01bf5f99ad187d88373c9",
+        "size_in_bytes": 5821
+      },
+      {
+        "_path": "include/dav1d/version.h",
+        "path_type": "hardlink",
+        "sha256": "e1de98351dcf86a08ca3508fc18bd7a5788dcfd3441e7daa197c82f78b99d3ec",
+        "sha256_in_prefix": "e1de98351dcf86a08ca3508fc18bd7a5788dcfd3441e7daa197c82f78b99d3ec",
+        "size_in_bytes": 1566
+      },
+      {
+        "_path": "lib/libdav1d.6.dylib",
+        "path_type": "hardlink",
+        "sha256": "5b1b1882099861a70f4e6b30ed81eec5396afadd6397d0f0a60d3cb4d125013c",
+        "sha256_in_prefix": "5b1b1882099861a70f4e6b30ed81eec5396afadd6397d0f0a60d3cb4d125013c",
+        "size_in_bytes": 879616
+      },
+      {
+        "_path": "lib/libdav1d.dylib",
+        "path_type": "softlink",
+        "sha256": "5b1b1882099861a70f4e6b30ed81eec5396afadd6397d0f0a60d3cb4d125013c",
+        "size_in_bytes": 879616
+      },
+      {
+        "_path": "lib/pkgconfig/dav1d.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/dav1d_1658602857141/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "9d90db9d6977b6988e594fa2781d251654fa18fef5c6085d3b2e0b6b73d6de0e",
+        "sha256_in_prefix": "247fb1e29016a9f9281c087cdc39e59099521c98904402ae7ae07428b0ac675b",
+        "size_in_bytes": 428
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "eb1c3f0a59f444ab9bbe0e03081cbdfc5b1563acac75a96417b579600fefa7b6",
+  "size": 432671,
+  "subdir": "osx-arm64",
+  "timestamp": 1658603025767,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/dav1d-1.0.0-he4db4b2_1.tar.bz2",
+  "version": "1.0.0"
+}

@@ -1,0 +1,127 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/termcolor-2.0.1-pyhd8ed1ab_1",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/termcolor-2.0.1.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/termcolor-2.0.1.dist-info/METADATA",
+    "lib/python3.10/site-packages/termcolor-2.0.1.dist-info/RECORD",
+    "lib/python3.10/site-packages/termcolor-2.0.1.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/termcolor-2.0.1.dist-info/WHEEL",
+    "lib/python3.10/site-packages/termcolor-2.0.1.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/termcolor-2.0.1.dist-info/licenses/COPYING.txt",
+    "lib/python3.10/site-packages/termcolor/__init__.py",
+    "lib/python3.10/site-packages/termcolor/py.typed",
+    "lib/python3.10/site-packages/termcolor/termcolor.py",
+    "lib/python3.10/site-packages/termcolor/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/termcolor/__pycache__/termcolor.cpython-310.pyc"
+  ],
+  "fn": "termcolor-2.0.1-pyhd8ed1ab_1.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/termcolor-2.0.1-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "03b5e3d494a02d34ea442173f9450ae7",
+  "name": "termcolor",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/termcolor-2.0.1-pyhd8ed1ab_1.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/termcolor-2.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/termcolor-2.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2023cbe07614cf4b0ff4cbbd55f90f905c92c9a335a8fec5ee37c1f61cee1b78",
+        "sha256_in_prefix": "2023cbe07614cf4b0ff4cbbd55f90f905c92c9a335a8fec5ee37c1f61cee1b78",
+        "size_in_bytes": 4067
+      },
+      {
+        "_path": "site-packages/termcolor-2.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7c07856b36104262721f636108f6a4dc587512842bfb0a9b1698da39d31a78f0",
+        "sha256_in_prefix": "7c07856b36104262721f636108f6a4dc587512842bfb0a9b1698da39d31a78f0",
+        "size_in_bytes": 929
+      },
+      {
+        "_path": "site-packages/termcolor-2.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/termcolor-2.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "639ec89f16731410ba24e527de08f70d61e7590bd28e1eeeed468d2e65915c84",
+        "sha256_in_prefix": "639ec89f16731410ba24e527de08f70d61e7590bd28e1eeeed468d2e65915c84",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "site-packages/termcolor-2.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d244eb90e22672302f938ed027730e8c0be8c2cce20c726d1b181d297280cd7c",
+        "sha256_in_prefix": "d244eb90e22672302f938ed027730e8c0be8c2cce20c726d1b181d297280cd7c",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/termcolor-2.0.1.dist-info/licenses/COPYING.txt",
+        "path_type": "hardlink",
+        "sha256": "e79b6bd82962c1330caaa7c42278567b08667777673f8e2371a624d5715d4c0e",
+        "sha256_in_prefix": "e79b6bd82962c1330caaa7c42278567b08667777673f8e2371a624d5715d4c0e",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "site-packages/termcolor/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2a8fe570750129050f3120b371f84dc0dde477e017f1f0316a3c4f6ce0e51bb4",
+        "sha256_in_prefix": "2a8fe570750129050f3120b371f84dc0dde477e017f1f0316a3c4f6ce0e51bb4",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "site-packages/termcolor/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/termcolor/termcolor.py",
+        "path_type": "hardlink",
+        "sha256": "5e7d94c48a77b096eff054e1047a618a7eafc390e8d7a0372445edfe2092fbbb",
+        "sha256_in_prefix": "5e7d94c48a77b096eff054e1047a618a7eafc390e8d7a0372445edfe2092fbbb",
+        "size_in_bytes": 5378
+      },
+      {
+        "_path": "lib/python3.10/site-packages/termcolor/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/termcolor/__pycache__/termcolor.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d7d5eea54e749cbdb0817fa65cc7ac30a8dc47964b693274a23fd5b24fec1ae2",
+  "size": 9115,
+  "subdir": "noarch",
+  "timestamp": 1662985412100,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/termcolor-2.0.1-pyhd8ed1ab_1.tar.bz2",
+  "version": "2.0.1"
+}

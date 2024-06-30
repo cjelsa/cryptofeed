@@ -1,0 +1,251 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "matplotlib-base >=3.3"
+  ],
+  "depends": [
+    "imagecodecs >=2021.11.20",
+    "numpy >=1.19.2",
+    "python >=3.8"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tifffile-2022.8.12-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/LICENSE",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/METADATA",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/RECORD",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/WHEEL",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/entry_points.txt",
+    "lib/python3.10/site-packages/tifffile-2022.8.12.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/tifffile/__init__.py",
+    "lib/python3.10/site-packages/tifffile/__main__.py",
+    "lib/python3.10/site-packages/tifffile/_imagecodecs.py",
+    "lib/python3.10/site-packages/tifffile/geodb.py",
+    "lib/python3.10/site-packages/tifffile/lsm2bin.py",
+    "lib/python3.10/site-packages/tifffile/numcodecs.py",
+    "lib/python3.10/site-packages/tifffile/tiff2fsspec.py",
+    "lib/python3.10/site-packages/tifffile/tiffcomment.py",
+    "lib/python3.10/site-packages/tifffile/tifffile.py",
+    "lib/python3.10/site-packages/tifffile/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/__main__.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/_imagecodecs.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/geodb.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/lsm2bin.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/numcodecs.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/tiff2fsspec.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/tiffcomment.cpython-310.pyc",
+    "lib/python3.10/site-packages/tifffile/__pycache__/tifffile.cpython-310.pyc",
+    "bin/tifffile",
+    "bin/tiffcomment",
+    "bin/tiff2fsspec",
+    "bin/lsm2bin"
+  ],
+  "fn": "tifffile-2022.8.12-pyhd8ed1ab_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tifffile-2022.8.12-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "8dd285ed95ab44a0a804a66bf27d4f45",
+  "name": "tifffile",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tifffile-2022.8.12-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "06f96023d641cbf7f263bb1728e80baa3eed2de6f3705c6723c26629e6cd1b15",
+        "sha256_in_prefix": "06f96023d641cbf7f263bb1728e80baa3eed2de6f3705c6723c26629e6cd1b15",
+        "size_in_bytes": 1559
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "266ccd8d7fa871c6a237ee71a6204fc51b094423175766f4bce34e307068ccdb",
+        "sha256_in_prefix": "266ccd8d7fa871c6a237ee71a6204fc51b094423175766f4bce34e307068ccdb",
+        "size_in_bytes": 27199
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "85a8ccf4d5422688121f878cf0502cf56ead8a1e8ba4bbf11b61577b744f45cf",
+        "sha256_in_prefix": "85a8ccf4d5422688121f878cf0502cf56ead8a1e8ba4bbf11b61577b744f45cf",
+        "size_in_bytes": 2280
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "14f67d522277c01a98b5b2f79ef62435508d4eba8056ae5d02eb78dcf51b8884",
+        "sha256_in_prefix": "14f67d522277c01a98b5b2f79ef62435508d4eba8056ae5d02eb78dcf51b8884",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "cb29c2fbc60a62a8f2695058ff48d4765ea8d128ec6acf323c00911e75def1bf",
+        "sha256_in_prefix": "cb29c2fbc60a62a8f2695058ff48d4765ea8d128ec6acf323c00911e75def1bf",
+        "size_in_bytes": 155
+      },
+      {
+        "_path": "site-packages/tifffile-2022.8.12.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "87a7aa68736a6a426ad2d54dd37ed742246e5a1d7fdc903c4892e19336d37cb8",
+        "sha256_in_prefix": "87a7aa68736a6a426ad2d54dd37ed742246e5a1d7fdc903c4892e19336d37cb8",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/tifffile/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "82a60fc5e03f64d89ec1d57ffa40ca59a1695d83f259e89efb64538f90952dfc",
+        "sha256_in_prefix": "82a60fc5e03f64d89ec1d57ffa40ca59a1695d83f259e89efb64538f90952dfc",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/tifffile/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "4966ca62acae468bd0c09aa4267cd8b5bc0065850b1d691e839dc56390d7a553",
+        "sha256_in_prefix": "4966ca62acae468bd0c09aa4267cd8b5bc0065850b1d691e839dc56390d7a553",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "site-packages/tifffile/_imagecodecs.py",
+        "path_type": "hardlink",
+        "sha256": "bce0b0af9596f8d52e348326e1f13ab5d6a8ad8efcb9a8a1e33cc4d889a6ccb7",
+        "sha256_in_prefix": "bce0b0af9596f8d52e348326e1f13ab5d6a8ad8efcb9a8a1e33cc4d889a6ccb7",
+        "size_in_bytes": 10921
+      },
+      {
+        "_path": "site-packages/tifffile/geodb.py",
+        "path_type": "hardlink",
+        "sha256": "6bc82d07d517f035a62e71307d9938ccafb9edf60e8b36915760a2d0a032c2e9",
+        "sha256_in_prefix": "6bc82d07d517f035a62e71307d9938ccafb9edf60e8b36915760a2d0a032c2e9",
+        "size_in_bytes": 61794
+      },
+      {
+        "_path": "site-packages/tifffile/lsm2bin.py",
+        "path_type": "hardlink",
+        "sha256": "ea73a63c0902391b1f46885a603d964c4d8f3d4086386d8c2688b811fe8c8ca0",
+        "sha256_in_prefix": "ea73a63c0902391b1f46885a603d964c4d8f3d4086386d8c2688b811fe8c8ca0",
+        "size_in_bytes": 680
+      },
+      {
+        "_path": "site-packages/tifffile/numcodecs.py",
+        "path_type": "hardlink",
+        "sha256": "1dfc39799159c263feeca1c7154e13db5e24bd00838f53ee0f263a7a07bea5d0",
+        "sha256_in_prefix": "1dfc39799159c263feeca1c7154e13db5e24bd00838f53ee0f263a7a07bea5d0",
+        "size_in_bytes": 5086
+      },
+      {
+        "_path": "site-packages/tifffile/tiff2fsspec.py",
+        "path_type": "hardlink",
+        "sha256": "4e741a816f846eddd1ff30a001dd9ed967112ed71142ba06bf3e5fc7b55261cc",
+        "sha256_in_prefix": "4e741a816f846eddd1ff30a001dd9ed967112ed71142ba06bf3e5fc7b55261cc",
+        "size_in_bytes": 2410
+      },
+      {
+        "_path": "site-packages/tifffile/tiffcomment.py",
+        "path_type": "hardlink",
+        "sha256": "3f61fe8392e4c9d9833af363a8d70295cc6d95d99f744557127987087be1861c",
+        "sha256_in_prefix": "3f61fe8392e4c9d9833af363a8d70295cc6d95d99f744557127987087be1861c",
+        "size_in_bytes": 1437
+      },
+      {
+        "_path": "site-packages/tifffile/tifffile.py",
+        "path_type": "hardlink",
+        "sha256": "056b15f877bd5e27c6196a62bd47770e5f5c256996e1e2e4ff2123a56b35ad8c",
+        "sha256_in_prefix": "056b15f877bd5e27c6196a62bd47770e5f5c256996e1e2e4ff2123a56b35ad8c",
+        "size_in_bytes": 812743
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/__main__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/_imagecodecs.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/geodb.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/lsm2bin.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/numcodecs.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/tiff2fsspec.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/tiffcomment.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tifffile/__pycache__/tifffile.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "bin/tifffile",
+        "path_type": "unix_python_entry_point"
+      },
+      {
+        "_path": "bin/tiffcomment",
+        "path_type": "unix_python_entry_point"
+      },
+      {
+        "_path": "bin/tiff2fsspec",
+        "path_type": "unix_python_entry_point"
+      },
+      {
+        "_path": "bin/lsm2bin",
+        "path_type": "unix_python_entry_point"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "842f44cd4fb0a63a8051eca7e3be36265d555b0f2b31bded7c057b318174a9ea",
+  "size": 162359,
+  "subdir": "noarch",
+  "timestamp": 1660550018396,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/tifffile-2022.8.12-pyhd8ed1ab_0.tar.bz2",
+  "version": "2022.8.12"
+}

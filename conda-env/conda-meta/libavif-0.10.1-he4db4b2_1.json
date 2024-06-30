@@ -1,0 +1,101 @@
+{
+  "build": "he4db4b2_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "aom >=3.4.0,<3.5.0a0",
+    "dav1d >=1.0.0,<1.0.1.0a0"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libavif-0.10.1-he4db4b2_1",
+  "features": "",
+  "files": [
+    "include/avif/avif.h",
+    "lib/cmake/libavif/libavif-config-release.cmake",
+    "lib/cmake/libavif/libavif-config-version.cmake",
+    "lib/cmake/libavif/libavif-config.cmake",
+    "lib/libavif.14.0.1.dylib",
+    "lib/libavif.14.dylib",
+    "lib/libavif.dylib",
+    "lib/pkgconfig/libavif.pc"
+  ],
+  "fn": "libavif-0.10.1-he4db4b2_1.tar.bz2",
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libavif-0.10.1-he4db4b2_1",
+    "type": 1
+  },
+  "md5": "d7407585a524da8fbb6483d2a4f90907",
+  "name": "libavif",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/libavif-0.10.1-he4db4b2_1.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/avif/avif.h",
+        "path_type": "hardlink",
+        "sha256": "a103a28b2d85f17e22fb821466892cf281ce2601af3165c7daa64b240924353a",
+        "sha256_in_prefix": "a103a28b2d85f17e22fb821466892cf281ce2601af3165c7daa64b240924353a",
+        "size_in_bytes": 50302
+      },
+      {
+        "_path": "lib/cmake/libavif/libavif-config-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "3cd72dfd7ab01bbcd4c3b11cb60355114dfacf82981df1951f1205e1838830b7",
+        "sha256_in_prefix": "3cd72dfd7ab01bbcd4c3b11cb60355114dfacf82981df1951f1205e1838830b7",
+        "size_in_bytes": 801
+      },
+      {
+        "_path": "lib/cmake/libavif/libavif-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "92190780b9b23f4aa1d67a094192068a3f7c859fcb6733ab01dc37945994c8f7",
+        "sha256_in_prefix": "92190780b9b23f4aa1d67a094192068a3f7c859fcb6733ab01dc37945994c8f7",
+        "size_in_bytes": 2881
+      },
+      {
+        "_path": "lib/cmake/libavif/libavif-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "5449c65f718702c366e3865b86ad4e3db18d40abd4fc1ac94fdcf0e9c40105eb",
+        "sha256_in_prefix": "5449c65f718702c366e3865b86ad4e3db18d40abd4fc1ac94fdcf0e9c40105eb",
+        "size_in_bytes": 3262
+      },
+      {
+        "_path": "lib/libavif.14.0.1.dylib",
+        "path_type": "hardlink",
+        "sha256": "0184049c62b87a0a1947ccab8fb31471f2bfd42632aee693a9a7f9e155b11b3d",
+        "sha256_in_prefix": "0184049c62b87a0a1947ccab8fb31471f2bfd42632aee693a9a7f9e155b11b3d",
+        "size_in_bytes": 163264
+      },
+      {
+        "_path": "lib/libavif.14.dylib",
+        "path_type": "softlink",
+        "sha256": "0184049c62b87a0a1947ccab8fb31471f2bfd42632aee693a9a7f9e155b11b3d",
+        "size_in_bytes": 163264
+      },
+      {
+        "_path": "lib/libavif.dylib",
+        "path_type": "softlink",
+        "sha256": "0184049c62b87a0a1947ccab8fb31471f2bfd42632aee693a9a7f9e155b11b3d",
+        "size_in_bytes": 163264
+      },
+      {
+        "_path": "lib/pkgconfig/libavif.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/libavif_1658779035435/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "1595973edcced600cb95e43888f55ab04b1eea5c39e8470fce1eab3aebfd27e0",
+        "sha256_in_prefix": "2c4741d879006d722e29001b3beb59c02dc600f35365de5cd2f23be2e7450c57",
+        "size_in_bytes": 1223
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c49971a785a2c3ba0c10c8836abaa6ed4121d8a8702008c7ff4a52c9b0d080d3",
+  "size": 87017,
+  "subdir": "osx-arm64",
+  "timestamp": 1658779240433,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libavif-0.10.1-he4db4b2_1.tar.bz2",
+  "version": "0.10.1"
+}

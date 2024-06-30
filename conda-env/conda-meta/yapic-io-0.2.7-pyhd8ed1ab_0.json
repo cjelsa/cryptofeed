@@ -1,0 +1,252 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "h5py",
+    "matplotlib-base",
+    "munkres >=1.0.8",
+    "numpy >=1.13.1",
+    "python >=3.6",
+    "scikit-image >=0.12.3",
+    "sparse >=0.12.0",
+    "tifffile"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/yapic-io-0.2.7-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/LICENSE",
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/METADATA",
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/RECORD",
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/WHEEL",
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/yapic_io-0.2.7.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/yapic_io/__init__.py",
+    "lib/python3.10/site-packages/yapic_io/connector.py",
+    "lib/python3.10/site-packages/yapic_io/coordinate_connector.py",
+    "lib/python3.10/site-packages/yapic_io/dataset.py",
+    "lib/python3.10/site-packages/yapic_io/minibatch.py",
+    "lib/python3.10/site-packages/yapic_io/napari_connector.py",
+    "lib/python3.10/site-packages/yapic_io/prediction_batch.py",
+    "lib/python3.10/site-packages/yapic_io/tiff_connector.py",
+    "lib/python3.10/site-packages/yapic_io/training_batch.py",
+    "lib/python3.10/site-packages/yapic_io/transformations.py",
+    "lib/python3.10/site-packages/yapic_io/utils.py",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/connector.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/coordinate_connector.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/dataset.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/minibatch.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/napari_connector.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/prediction_batch.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/tiff_connector.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/training_batch.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/transformations.cpython-310.pyc",
+    "lib/python3.10/site-packages/yapic_io/__pycache__/utils.cpython-310.pyc"
+  ],
+  "fn": "yapic-io-0.2.7-pyhd8ed1ab_0.tar.bz2",
+  "license": "GPL-3.0-only",
+  "license_family": "GPL",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/yapic-io-0.2.7-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "64c8558a8b701924577bd77f01c9c58e",
+  "name": "yapic-io",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/yapic-io-0.2.7-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad",
+        "sha256_in_prefix": "605e9047a563c5c8396ffb18232aa4304ec56586aee537c45064c6fb425e44ad",
+        "size_in_bytes": 35129
+      },
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a38cbf6332c18d68e9d0d4ceb3d462c2805358d1c24857a5af331f609a259cc8",
+        "sha256_in_prefix": "a38cbf6332c18d68e9d0d4ceb3d462c2805358d1c24857a5af331f609a259cc8",
+        "size_in_bytes": 4870
+      },
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ec24d6424f20466ee4c4268a0cf48e2dd9535eb33e0ab8ced57851a4938bd4d0",
+        "sha256_in_prefix": "ec24d6424f20466ee4c4268a0cf48e2dd9535eb33e0ab8ced57851a4938bd4d0",
+        "size_in_bytes": 2161
+      },
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "93bac6fdf020feade227ef24cd32672f50c2f2213b20af693ce3784ddeea27fd",
+        "sha256_in_prefix": "93bac6fdf020feade227ef24cd32672f50c2f2213b20af693ce3784ddeea27fd",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/yapic_io-0.2.7.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "00ef6037954426955299999fabbd1fc40ff825232b8d999e214379cdd88a736a",
+        "sha256_in_prefix": "00ef6037954426955299999fabbd1fc40ff825232b8d999e214379cdd88a736a",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/yapic_io/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7dc48e4bb64ae47fb066dafc1da42bc98306adf5100718a4bb67bb7c6514cc3d",
+        "sha256_in_prefix": "7dc48e4bb64ae47fb066dafc1da42bc98306adf5100718a4bb67bb7c6514cc3d",
+        "size_in_bytes": 191
+      },
+      {
+        "_path": "site-packages/yapic_io/connector.py",
+        "path_type": "hardlink",
+        "sha256": "7fa48c68118508fc9031b9a27499b7d65c1470f2c0679e5fe2294c1df08ce68f",
+        "sha256_in_prefix": "7fa48c68118508fc9031b9a27499b7d65c1470f2c0679e5fe2294c1df08ce68f",
+        "size_in_bytes": 5363
+      },
+      {
+        "_path": "site-packages/yapic_io/coordinate_connector.py",
+        "path_type": "hardlink",
+        "sha256": "3233aee0b36854a22f94e547f8317de6cf9aebae62c47cb60be4c6680ea2d189",
+        "sha256_in_prefix": "3233aee0b36854a22f94e547f8317de6cf9aebae62c47cb60be4c6680ea2d189",
+        "size_in_bytes": 1428
+      },
+      {
+        "_path": "site-packages/yapic_io/dataset.py",
+        "path_type": "hardlink",
+        "sha256": "af0b565a582a53e4af1a6066e02a8ba9e4db99c3a1b4e5c7d4a645a620e4e4e0",
+        "sha256_in_prefix": "af0b565a582a53e4af1a6066e02a8ba9e4db99c3a1b4e5c7d4a645a620e4e4e0",
+        "size_in_bytes": 27060
+      },
+      {
+        "_path": "site-packages/yapic_io/minibatch.py",
+        "path_type": "hardlink",
+        "sha256": "0b58452998729180c4d173bfd7bcbf47627ff2a8256d4c0a701c22bba85d723d",
+        "sha256_in_prefix": "0b58452998729180c4d173bfd7bcbf47627ff2a8256d4c0a701c22bba85d723d",
+        "size_in_bytes": 6965
+      },
+      {
+        "_path": "site-packages/yapic_io/napari_connector.py",
+        "path_type": "hardlink",
+        "sha256": "5226c4e1844b0199b71bdab8a0e09fe1052ca1beac9ab886fe6631db50e4ff48",
+        "sha256_in_prefix": "5226c4e1844b0199b71bdab8a0e09fe1052ca1beac9ab886fe6631db50e4ff48",
+        "size_in_bytes": 14186
+      },
+      {
+        "_path": "site-packages/yapic_io/prediction_batch.py",
+        "path_type": "hardlink",
+        "sha256": "ceb83418ddd1b1910be70b7ef1304c467d64c349267c042baa9e414b1bfad7ef",
+        "sha256_in_prefix": "ceb83418ddd1b1910be70b7ef1304c467d64c349267c042baa9e414b1bfad7ef",
+        "size_in_bytes": 7377
+      },
+      {
+        "_path": "site-packages/yapic_io/tiff_connector.py",
+        "path_type": "hardlink",
+        "sha256": "8c26441fcf01c5440ca895647ce4a880d01bd31f6479c60618504faf8e3529f8",
+        "sha256_in_prefix": "8c26441fcf01c5440ca895647ce4a880d01bd31f6479c60618504faf8e3529f8",
+        "size_in_bytes": 20448
+      },
+      {
+        "_path": "site-packages/yapic_io/training_batch.py",
+        "path_type": "hardlink",
+        "sha256": "1060886331ea5beafd54c7744fef82b44b7f8f7bfb15a5c3788a105696fd97b1",
+        "sha256_in_prefix": "1060886331ea5beafd54c7744fef82b44b7f8f7bfb15a5c3788a105696fd97b1",
+        "size_in_bytes": 15060
+      },
+      {
+        "_path": "site-packages/yapic_io/transformations.py",
+        "path_type": "hardlink",
+        "sha256": "b9beb3096049148ac4cfb3cc681b5480fb529b229417d6f05cb661cafba25ccf",
+        "sha256_in_prefix": "b9beb3096049148ac4cfb3cc681b5480fb529b229417d6f05cb661cafba25ccf",
+        "size_in_bytes": 3607
+      },
+      {
+        "_path": "site-packages/yapic_io/utils.py",
+        "path_type": "hardlink",
+        "sha256": "0ae34f4e39840a6e9e8c1f6433f155217526e8634deca5a8d95c784c0d9ccf9c",
+        "sha256_in_prefix": "0ae34f4e39840a6e9e8c1f6433f155217526e8634deca5a8d95c784c0d9ccf9c",
+        "size_in_bytes": 6336
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/connector.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/coordinate_connector.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/dataset.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/minibatch.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/napari_connector.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/prediction_batch.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/tiff_connector.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/training_batch.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/transformations.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/yapic_io/__pycache__/utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "011e9afcdf7d88f4396cd6724b652252606ffb82cbac188fc8dda281341f328a",
+  "size": 44338,
+  "subdir": "noarch",
+  "timestamp": 1643626144785,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/yapic-io-0.2.7-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.2.7"
+}

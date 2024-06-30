@@ -1,0 +1,119 @@
+{
+  "build": "py310hf1846ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "openssl >=1.1.1n,<1.1.2a",
+    "python >=3.10,<3.11.0a0",
+    "python >=3.10,<3.11.0a0 *_cpython",
+    "python_abi 3.10.* *_cp310"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tensorboard-data-server-0.6.0-py310hf1846ab_2",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/tensorboard_data_server/__init__.py",
+    "lib/python3.10/site-packages/tensorboard_data_server/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/tensorboard_data_server/bin/server"
+  ],
+  "fn": "tensorboard-data-server-0.6.0-py310hf1846ab_2.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tensorboard-data-server-0.6.0-py310hf1846ab_2",
+    "type": 1
+  },
+  "md5": "6a444ae7a16d9a15e807ccb4074e32eb",
+  "name": "tensorboard-data-server",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tensorboard-data-server-0.6.0-py310hf1846ab_2.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2fac154188335c7d120d4145036090f858b20cf3e5384ef0d46cd2c0338ac025",
+        "sha256_in_prefix": "2fac154188335c7d120d4145036090f858b20cf3e5384ef0d46cd2c0338ac025",
+        "size_in_bytes": 1096
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "cf9b060dd37f82e14684861d6b5ce589e0c6ed808a2bd146a16a1f5e19e28802",
+        "sha256_in_prefix": "cf9b060dd37f82e14684861d6b5ce589e0c6ed808a2bd146a16a1f5e19e28802",
+        "size_in_bytes": 939
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "b017f8fe1e458573ae9162b9dfc6aa3e7e967d1b6d86fbb7a953f994d7f54568",
+        "sha256_in_prefix": "b017f8fe1e458573ae9162b9dfc6aa3e7e967d1b6d86fbb7a953f994d7f54568",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "8bd05e0b84c9952171ebd13a3f3868d1cf9e0840fe3da4f4e325b94f2bbf672b",
+        "sha256_in_prefix": "8bd05e0b84c9952171ebd13a3f3868d1cf9e0840fe3da4f4e325b94f2bbf672b",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server-0.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c5515f6aae4129ae4cce6731d57e365051d8f2f1cae8a5a6ba35697395651e00",
+        "sha256_in_prefix": "c5515f6aae4129ae4cce6731d57e365051d8f2f1cae8a5a6ba35697395651e00",
+        "size_in_bytes": 24
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "93314703a10547ae40b56a5e4a2a17ffc3606234792dab9553107e6868a4a6dc",
+        "sha256_in_prefix": "93314703a10547ae40b56a5e4a2a17ffc3606234792dab9553107e6868a4a6dc",
+        "size_in_bytes": 1250
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5c33808ec2df83c93b71c40e7d935d22d8278d0b2fc61857c550ea59eeda1957",
+        "sha256_in_prefix": "5c33808ec2df83c93b71c40e7d935d22d8278d0b2fc61857c550ea59eeda1957",
+        "size_in_bytes": 663
+      },
+      {
+        "_path": "lib/python3.10/site-packages/tensorboard_data_server/bin/server",
+        "path_type": "hardlink",
+        "sha256": "41e42f882847957c7dd05d9c63a20633fc907709eaebd1bda167348273f631db",
+        "sha256_in_prefix": "41e42f882847957c7dd05d9c63a20633fc907709eaebd1bda167348273f631db",
+        "size_in_bytes": 6882992
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bd17bfae39f7aa7fe8e0b7081b2b37e072f513943c9fa805e3120d62148ce98b",
+  "size": 2289408,
+  "subdir": "osx-arm64",
+  "timestamp": 1649933833925,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/tensorboard-data-server-0.6.0-py310hf1846ab_2.tar.bz2",
+  "version": "0.6.0"
+}

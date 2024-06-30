@@ -1,0 +1,37 @@
+{
+  "build": "cpu_py310h6ecea76_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "python_abi 3.10.* *_cp310",
+    "tensorflow-base 2.9.1 cpu_py310h048a3e3_0",
+    "tensorflow-estimator 2.9.1 cpu_py310hfb5573e_0"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tensorflow-2.9.1-cpu_py310h6ecea76_0",
+  "features": "",
+  "files": [],
+  "fn": "tensorflow-2.9.1-cpu_py310h6ecea76_0.tar.bz2",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tensorflow-2.9.1-cpu_py310h6ecea76_0",
+    "type": 1
+  },
+  "md5": "39524f0b31ef1d91c9d2f289e8bbdd2d",
+  "name": "tensorflow",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/tensorflow-2.9.1-cpu_py310h6ecea76_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "df668de9fff2d8242181851bab7879687414bd8500966bdcc6a7d6df700f180b",
+  "size": 27755,
+  "subdir": "osx-arm64",
+  "timestamp": 1658093771729,
+  "track_features": "tensorflow-cpu",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/tensorflow-2.9.1-cpu_py310h6ecea76_0.tar.bz2",
+  "version": "2.9.1"
+}

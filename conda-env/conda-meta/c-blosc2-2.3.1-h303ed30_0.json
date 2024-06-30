@@ -1,0 +1,119 @@
+{
+  "build": "h303ed30_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.4",
+    "lz4-c >=1.9.3,<1.10.0a0",
+    "zlib-ng >=2.0.6,<2.1.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/c-blosc2-2.3.1-h303ed30_0",
+  "features": "",
+  "files": [
+    "include/blosc2.h",
+    "include/blosc2/blosc2-common.h",
+    "include/blosc2/blosc2-export.h",
+    "include/blosc2/blosc2-stdio.h",
+    "include/blosc2/codecs-registry.h",
+    "include/blosc2/filters-registry.h",
+    "lib/libblosc2.2.3.1.dylib",
+    "lib/libblosc2.2.dylib",
+    "lib/libblosc2.dylib",
+    "lib/pkgconfig/blosc2.pc"
+  ],
+  "fn": "c-blosc2-2.3.1-h303ed30_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/c-blosc2-2.3.1-h303ed30_0",
+    "type": 1
+  },
+  "md5": "4a9e8c776d08e926329a80dd2704582f",
+  "name": "c-blosc2",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/c-blosc2-2.3.1-h303ed30_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/blosc2.h",
+        "path_type": "hardlink",
+        "sha256": "54f5e886d03768f5e37b8bc671de5e93d76d3511ced7afbed43ed30d34f27ae1",
+        "sha256_in_prefix": "54f5e886d03768f5e37b8bc671de5e93d76d3511ced7afbed43ed30d34f27ae1",
+        "size_in_bytes": 84032
+      },
+      {
+        "_path": "include/blosc2/blosc2-common.h",
+        "path_type": "hardlink",
+        "sha256": "58d5c91c9a2cef0681af5841086a752196a01f4e2adc33d0d464344d720b5120",
+        "sha256_in_prefix": "58d5c91c9a2cef0681af5841086a752196a01f4e2adc33d0d464344d720b5120",
+        "size_in_bytes": 2858
+      },
+      {
+        "_path": "include/blosc2/blosc2-export.h",
+        "path_type": "hardlink",
+        "sha256": "25798186668cdbaf683e2782017109f248586f36e568e5b11d2f618eb654c6b7",
+        "sha256_in_prefix": "25798186668cdbaf683e2782017109f248586f36e568e5b11d2f618eb654c6b7",
+        "size_in_bytes": 1710
+      },
+      {
+        "_path": "include/blosc2/blosc2-stdio.h",
+        "path_type": "hardlink",
+        "sha256": "b326cf6d46b8516ce3dc1141cb3427991d51dc47122089700ee3faec28ac068c",
+        "sha256_in_prefix": "b326cf6d46b8516ce3dc1141cb3427991d51dc47122089700ee3faec28ac068c",
+        "size_in_bytes": 1502
+      },
+      {
+        "_path": "include/blosc2/codecs-registry.h",
+        "path_type": "hardlink",
+        "sha256": "98a3f95db218e1ac55bdca33ddb9ba3748bc6425432dc8718f3dee0d9019271d",
+        "sha256_in_prefix": "98a3f95db218e1ac55bdca33ddb9ba3748bc6425432dc8718f3dee0d9019271d",
+        "size_in_bytes": 572
+      },
+      {
+        "_path": "include/blosc2/filters-registry.h",
+        "path_type": "hardlink",
+        "sha256": "b35bb66a2d309a6f555594d6a6f22268487b972eca9f8c78a721dca2a0dfa8ff",
+        "sha256_in_prefix": "b35bb66a2d309a6f555594d6a6f22268487b972eca9f8c78a721dca2a0dfa8ff",
+        "size_in_bytes": 486
+      },
+      {
+        "_path": "lib/libblosc2.2.3.1.dylib",
+        "path_type": "hardlink",
+        "sha256": "0c4ebc287292b2515b3da03a829cf8780f30baad5bbd097d1341ea4af889bf66",
+        "sha256_in_prefix": "0c4ebc287292b2515b3da03a829cf8780f30baad5bbd097d1341ea4af889bf66",
+        "size_in_bytes": 527664
+      },
+      {
+        "_path": "lib/libblosc2.2.dylib",
+        "path_type": "softlink",
+        "sha256": "0c4ebc287292b2515b3da03a829cf8780f30baad5bbd097d1341ea4af889bf66",
+        "size_in_bytes": 527664
+      },
+      {
+        "_path": "lib/libblosc2.dylib",
+        "path_type": "softlink",
+        "sha256": "0c4ebc287292b2515b3da03a829cf8780f30baad5bbd097d1341ea4af889bf66",
+        "size_in_bytes": 527664
+      },
+      {
+        "_path": "lib/pkgconfig/blosc2.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/c-blosc2_1661366891733/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "198988f1638618d6c0b3a511f1761dfe5d21628acb7b00010fff6b2fad4d6a3c",
+        "sha256_in_prefix": "4777a4e84385faf3d124ed29f5e754888e7d96699062a8f9fd0ee63db41db9c5",
+        "size_in_bytes": 820
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4ac361faa6da0452306e657e410b29df4d2bc9bce98c70eaccd27dbf4d60447b",
+  "size": 232010,
+  "subdir": "osx-arm64",
+  "timestamp": 1661367146609,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/c-blosc2-2.3.1-h303ed30_0.tar.bz2",
+  "version": "2.3.1"
+}
